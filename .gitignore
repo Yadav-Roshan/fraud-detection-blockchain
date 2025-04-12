@@ -1,0 +1,31 @@
+# Truffle build directory
+/build
+
+# Frontend build directory (keep this)
+!/frontend/build/
+!/frontend/build/contracts/
+
+# Node dependencies
+node_modules/
+
+# Python dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+ENV/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+*.csv
+*.pkl

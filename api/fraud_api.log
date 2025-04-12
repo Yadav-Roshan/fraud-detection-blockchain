@@ -1,0 +1,62 @@
+2025-04-12 15:11:59,244 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 15:11:59,481 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 15:11:59,588 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 15:11:59,594 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 15:40:57,340 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 15:40:57,353 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 15:40:57,360 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 15:40:57,366 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 15:43:32,387 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 15:43:32,396 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 15:43:32,401 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 15:43:32,404 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 15:48:10,467 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 15:48:10,477 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 15:48:10,482 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 15:48:10,488 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:14:40,488 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 16:14:40,504 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:14:40,512 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 16:14:40,518 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:15:59,707 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 16:15:59,723 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:15:59,731 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 16:15:59,738 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:18:40,424 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 16:18:40,435 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:18:40,443 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 16:18:40,448 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:20:17,849 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 16:20:17,861 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:20:17,879 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 16:20:17,895 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:36:30,550 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 16:36:30,566 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:36:30,572 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 16:36:30,577 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 16:46:41,787 - fraud-detection-api - INFO - Processing transaction: j6gzs3i3mhdjvagcx0jo27g0s478kk7x
+2025-04-12 16:46:41,938 - fraud-detection-api - INFO - Transaction j6gzs3i3mhdjvagcx0jo27g0s478kk7x: is_fraud=False, confidence=2%
+2025-04-12 17:00:14,964 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 17:00:14,976 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 17:00:14,980 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 17:00:14,983 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 17:04:28,183 - fraud-detection-api - INFO - Processing transaction: cjuwt910dyb6zii2a1kcwz4ziok5whvk
+2025-04-12 17:04:28,225 - fraud-detection-api - INFO - Transaction cjuwt910dyb6zii2a1kcwz4ziok5whvk: is_fraud=False, confidence=0%
+2025-04-12 17:06:55,855 - fraud-detection-api - INFO - Processing transaction: jn5kfrw3336chwu4qabdlg6zpuvq4bw9
+2025-04-12 17:06:55,873 - fraud-detection-api - INFO - Transaction jn5kfrw3336chwu4qabdlg6zpuvq4bw9: is_fraud=False, confidence=0%
+2025-04-12 17:09:08,957 - fraud-detection-api - INFO - Processing transaction: c852e4kpknk4lqnsgefwm2gfmwrhz370
+2025-04-12 17:09:08,972 - fraud-detection-api - INFO - Transaction c852e4kpknk4lqnsgefwm2gfmwrhz370: is_fraud=False, confidence=0%
+2025-04-12 17:12:45,356 - fraud-detection-api - INFO - Processing transaction: z7ftjr1fbnsnxk5xzu51pgr2s3wx2vbp
+2025-04-12 17:12:45,380 - fraud-detection-api - INFO - Transaction z7ftjr1fbnsnxk5xzu51pgr2s3wx2vbp: is_fraud=False, confidence=0%
+2025-04-12 17:14:57,643 - fraud-detection-api - INFO - Processing transaction: sk8ma01d37frzwe8utoasd4gguqqjdrj
+2025-04-12 17:14:57,676 - fraud-detection-api - INFO - Transaction sk8ma01d37frzwe8utoasd4gguqqjdrj: is_fraud=False, confidence=0%
+2025-04-12 17:17:49,366 - fraud-detection-api - INFO - Processing transaction: 0l22ze0ab4f2p41l9ightb91z0yha6pv
+2025-04-12 17:17:49,384 - fraud-detection-api - INFO - Transaction 0l22ze0ab4f2p41l9ightb91z0yha6pv: is_fraud=False, confidence=0%
+2025-04-12 17:25:38,372 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 17:25:38,382 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 17:25:38,387 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 17:25:38,390 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 18:10:48,134 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 18:10:48,168 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 18:10:48,172 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 18:10:48,175 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab

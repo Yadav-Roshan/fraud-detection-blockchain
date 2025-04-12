@@ -1,0 +1,14 @@
+fastapi[standard]
+uvicorn
+scikit-learn
+pandas
+numpy
+web3
+pydantic
+python-dotenv
+pytest
+httpx
+seaborn
+matplotlib
+plotly
+tqdm

@@ -1,0 +1,42 @@
+{
+  "name": "debit-fraud-detection",
+  "version": "1.0.0",
+  "description": "Ethereum-based debit card fraud detection system",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "ganache": "ganache -d",
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "migrate:reset": "truffle migrate --reset",
+    "start:api": "cd api && python -m uvicorn main:app --reload --port 8000",
+    "train-model": "cd api && python fraud_detection_model.py",
+    "convert-model": "python scripts/convert_model.py",
+    "build:contracts": "node scripts/compile-deploy-contracts.js",
+    "deploy-contracts": "truffle migrate --reset && node scripts/save-contract-address.js",
+    "start:frontend": "cd frontend && npx http-server -c-1 -p 8080",
+    "update-dependencies": "node scripts/update-dependencies.js",
+    "load-data": "node scripts/load_merchants_categories.js"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "fraud-detection",
+    "machine-learning",
+    "web3"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@truffle/contract": "^4.6.28",
+    "web3": "^4.1.2"
+  },
+  "devDependencies": {
+    "ganache": "^7.9.1",
+    "http-server": "^14.1.1",
+    "truffle": "^5.11.5"
+  }
+}

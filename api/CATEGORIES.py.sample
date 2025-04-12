@@ -1,0 +1,16 @@
+# List of all transaction categories
+CATEGORIES = [
+    "grocery_pos",
+    "misc_pos",
+    "entertainment",
+    "food_dining",
+    "gas_transport",
+    "misc_net",
+    "shopping_pos",
+    "shopping_net",
+    "health_fitness",
+    "kids_pets",
+    "personal_care",
+    "travel",
+    "home"
+]

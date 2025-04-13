@@ -1011,8 +1011,8 @@ function showNotification(title, message) {
 
 // Show simulation modal
 function showSimulationModal() {
-    // Generate a random transaction ID when modal opens
-    const transactionId = [...Array(32)].map(() => Math.floor(Math.random() * 36).toString(36)).join('');
+    // Generate a random transaction ID when modal opens - HEXADECIMAL ONLY
+    const transactionId = [...Array(32)].map(() => Math.floor(Math.random() * 16).toString(16)).join('');
     
     // Add hour_of_day field if it doesn't exist
     addHourOfDayField();
@@ -1064,7 +1064,8 @@ function addHourOfDayField() {
 function addTransactionIdField(transactionId) {
     // Ensure we have a transaction ID
     if (!transactionId) {
-        transactionId = [...Array(32)].map(() => Math.floor(Math.random() * 36).toString(36)).join('');
+        // Generate hex-only transaction ID
+        transactionId = [...Array(32)].map(() => Math.floor(Math.random() * 16).toString(16)).join('');
     }
     
     // Check if the transaction ID field already exists
@@ -1188,8 +1189,8 @@ async function simulateTransaction() {
     if (txIdField && txIdField.value) {
         transactionId = txIdField.value;
     } else {
-        // Generate a random transaction ID (32 alphanumeric)
-        transactionId = [...Array(32)].map(() => Math.floor(Math.random() * 36).toString(36)).join('');
+        // Generate a random transaction ID (32 HEXADECIMAL chars only)
+        transactionId = [...Array(32)].map(() => Math.floor(Math.random() * 16).toString(16)).join('');
     }
     
     // Check if user provided an hour_of_day value
@@ -1276,7 +1277,24 @@ async function simulateTransaction() {
             setTimeout(() => {
                 console.log('Refreshing fraud events after simulation');
                 loadFraudEvents();
-            }, 5000); // Increased to 5 seconds from 2 seconds
+                
+                // Update connection status after loading events to show mining is complete
+                setTimeout(() => {
+                    if (isConnected) {
+                        updateConnectionStatus('Transaction mined successfully!', 'success');
+                        
+                        // Revert to normal connection status after showing success message
+                        setTimeout(() => {
+                            if (document.getElementById('connection-info')) {
+                                // If we have a connection info div, preserve it
+                                return;
+                            } else {
+                                updateConnectionStatus('Connected to blockchain', 'success');
+                            }
+                        }, 500);
+                    }
+                }, 1000);
+            }, 1000); // Increased to 5 seconds to give more time for mining
         } else {
             alert(`Transaction is LEGITIMATE with ${((1 - result.confidence_score) * 100).toFixed(2)}% confidence.`);
             // Notice there's no refresh or blockchain logging for legitimate transactions

@@ -60,3 +60,548 @@
 2025-04-12 18:10:48,168 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
 2025-04-12 18:10:48,172 - fraud-detection-api - INFO - Starting Fraud Detection API
 2025-04-12 18:10:48,175 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:08:02,383 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:08:02,498 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:08:02,507 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:08:02,511 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:15:20,284 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:15:20,298 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:15:20,305 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:15:20,311 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:16:45,186 - fraud-detection-api - INFO - Processing transaction: jgmamu6qq42hp2efpgzw9hjlsoq1trnj
+2025-04-12 21:16:45,253 - fraud-detection-api - INFO - Transaction jgmamu6qq42hp2efpgzw9hjlsoq1trnj: is_fraud=False, confidence=7%
+2025-04-12 21:21:43,548 - fraud-detection-api - INFO - Processing transaction: yh6u9og3y9neigqlhb5lpz247qpkcv00
+2025-04-12 21:21:43,583 - fraud-detection-api - INFO - Transaction yh6u9og3y9neigqlhb5lpz247qpkcv00: is_fraud=False, confidence=67%
+2025-04-12 21:22:50,466 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:22:50,477 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:22:50,483 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:22:50,489 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:23:20,019 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:23:20,030 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:23:20,037 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:23:20,044 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:27:08,629 - fraud-detection-api - INFO - Processing transaction: g1t9wvg3434oye4fbc2cai3s02l5b12n
+2025-04-12 21:27:08,664 - fraud-detection-api - INFO - Transaction g1t9wvg3434oye4fbc2cai3s02l5b12n: is_fraud=True, confidence=67%
+2025-04-12 21:27:08,743 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 21:31:55,909 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:31:55,923 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:31:55,930 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:31:55,937 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:32:29,808 - fraud-detection-api - INFO - Processing transaction: lsaol76vco6hxs5o3jm89m8jscbga5c0
+2025-04-12 21:32:29,846 - fraud-detection-api - INFO - Transaction lsaol76vco6hxs5o3jm89m8jscbga5c0: is_fraud=True, confidence=67%
+2025-04-12 21:32:29,916 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 21:32:29,917 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: lsaol76vco6hxs5o3jm89m8jscbga5c0
+2025-04-12 21:36:27,533 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:36:27,545 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:36:27,552 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:36:27,556 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:36:41,655 - fraud-detection-api - INFO - Processing transaction: gtojskkfhu84sfs3duouaieoykz37cw9
+2025-04-12 21:36:41,701 - fraud-detection-api - INFO - Transaction gtojskkfhu84sfs3duouaieoykz37cw9: is_fraud=True, confidence=67%
+2025-04-12 21:36:41,752 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 21:36:41,753 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: gtojskkfhu84sfs3duouaieoykz37cw9
+2025-04-12 21:38:24,554 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:38:24,652 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:38:24,657 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:38:24,663 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:40:25,552 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:40:25,563 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:40:25,569 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:40:25,573 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:40:39,413 - fraud-detection-api - INFO - Processing transaction: 4d2b1179d8035e5fc432577d7c45c4a4
+2025-04-12 21:40:39,466 - fraud-detection-api - INFO - Transaction 4d2b1179d8035e5fc432577d7c45c4a4: is_fraud=True, confidence=67%
+2025-04-12 21:40:39,528 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 21:40:39,528 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: 4d2b1179d8035e5fc432577d7c45c4a4
+2025-04-12 21:42:46,520 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:42:46,532 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:42:46,541 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:42:46,547 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:43:14,141 - fraud-detection-api - INFO - Processing transaction: d12eb16c89932c7b04522b8ea44acb8e
+2025-04-12 21:43:14,179 - fraud-detection-api - INFO - Transaction d12eb16c89932c7b04522b8ea44acb8e: is_fraud=True, confidence=67%
+2025-04-12 21:43:14,227 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 21:43:14,228 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: d12eb16c89932c7b04522b8ea44acb8e
+2025-04-12 21:46:03,838 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:46:03,859 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:46:03,870 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:46:03,878 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:46:20,010 - fraud-detection-api - INFO - Processing transaction: 98be993b3ef98e04385099f2bc7ac8af
+2025-04-12 21:46:20,066 - fraud-detection-api - INFO - Transaction 98be993b3ef98e04385099f2bc7ac8af: is_fraud=True, confidence=67%
+2025-04-12 21:46:20,121 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 21:46:20,122 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: 98be993b3ef98e04385099f2bc7ac8af
+2025-04-12 21:48:42,514 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:48:42,527 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:48:42,533 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:48:42,539 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:49:50,099 - fraud-detection-api - INFO - Processing transaction: bd315c89000d738c8e07f033ec017c6a
+2025-04-12 21:49:50,143 - fraud-detection-api - INFO - Transaction bd315c89000d738c8e07f033ec017c6a: is_fraud=True, confidence=67%
+2025-04-12 21:49:50,205 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 21:49:50,205 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: bd315c89000d738c8e07f033ec017c6a
+2025-04-12 21:52:41,992 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:52:42,003 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:52:42,011 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:52:42,018 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:53:08,450 - fraud-detection-api - INFO - Processing transaction: b40eef9931ab24de0c19e489f202e7a4
+2025-04-12 21:53:08,497 - fraud-detection-api - INFO - Transaction b40eef9931ab24de0c19e489f202e7a4: is_fraud=True, confidence=67%
+2025-04-12 21:53:08,535 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 21:53:08,535 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: b40eef9931ab24de0c19e489f202e7a4
+2025-04-12 21:55:39,299 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 21:55:39,309 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:55:39,316 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 21:55:39,320 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 21:57:48,117 - fraud-detection-api - INFO - Processing transaction: 80757f5aeac5c5002d3b0479ed586d1c
+2025-04-12 21:57:48,160 - fraud-detection-api - INFO - Transaction 80757f5aeac5c5002d3b0479ed586d1c: is_fraud=True, confidence=67%
+2025-04-12 21:57:48,275 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 21:57:48,275 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: 80757f5aeac5c5002d3b0479ed586d1c
+2025-04-12 22:02:42,005 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 22:02:42,017 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:02:42,021 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 22:02:42,027 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:02:53,280 - fraud-detection-api - INFO - Processing transaction: de27c3074c6497113dc8a9249d726c1c
+2025-04-12 22:02:53,323 - fraud-detection-api - INFO - Transaction de27c3074c6497113dc8a9249d726c1c: is_fraud=True, confidence=67%
+2025-04-12 22:02:53,379 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 22:02:53,380 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: de27c3074c6497113dc8a9249d726c1c
+2025-04-12 22:08:07,379 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 22:08:07,391 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:08:07,396 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 22:08:07,401 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:08:23,712 - fraud-detection-api - INFO - Processing transaction: f8be07f9290b188a806175cfbb767035
+2025-04-12 22:08:23,761 - fraud-detection-api - INFO - Transaction f8be07f9290b188a806175cfbb767035: is_fraud=True, confidence=67%
+2025-04-12 22:08:23,817 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 22:08:23,819 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: f8be07f9290b188a806175cfbb767035
+2025-04-12 22:10:08,926 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 22:10:08,936 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:10:08,943 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 22:10:08,948 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:10:23,874 - fraud-detection-api - INFO - Processing transaction: 67671f873631662af58dcb033bdf4434
+2025-04-12 22:10:23,919 - fraud-detection-api - INFO - Transaction 67671f873631662af58dcb033bdf4434: is_fraud=True, confidence=67%
+2025-04-12 22:10:23,975 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 22:10:23,977 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: 67671f873631662af58dcb033bdf4434
+2025-04-12 22:15:05,968 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 22:15:05,977 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:15:05,985 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 22:15:05,989 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:15:19,134 - fraud-detection-api - INFO - Processing transaction: c07eec7ddaf4285e20669e79cd14e55b
+2025-04-12 22:15:19,191 - fraud-detection-api - INFO - Transaction c07eec7ddaf4285e20669e79cd14e55b: is_fraud=False, confidence=0%
+2025-04-12 22:22:18,215 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 22:22:18,225 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:22:18,234 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 22:22:18,239 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:23:53,191 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 22:23:53,200 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:23:53,206 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 22:23:53,211 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:24:56,123 - fraud-detection-api - INFO - Processing transaction: c87a01fc582889077db9b7a36a59e48f
+2025-04-12 22:24:56,172 - fraud-detection-api - INFO - Transaction c87a01fc582889077db9b7a36a59e48f: is_fraud=True, confidence=67%
+2025-04-12 22:24:56,242 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 22:24:56,242 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: c87a01fc582889077db9b7a36a59e48f
+2025-04-12 22:26:49,750 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-12 22:26:49,761 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:26:49,768 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-12 22:26:49,773 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-12 22:27:08,736 - fraud-detection-api - INFO - Processing transaction: 757746233ccc1aefc8d8529bd6f8b4ef
+2025-04-12 22:27:08,778 - fraud-detection-api - INFO - Transaction 757746233ccc1aefc8d8529bd6f8b4ef: is_fraud=True, confidence=67%
+2025-04-12 22:27:08,838 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-12 22:27:08,839 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: 757746233ccc1aefc8d8529bd6f8b4ef
+2025-04-13 14:35:14,181 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:35:14,195 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:35:14,300 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:35:14,300 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:35:14,308 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:35:14,316 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:35:14,317 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:35:20,434 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:35:20,448 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:35:20,457 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:35:20,462 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:43:17,362 - fraud-detection-api - INFO - Processing transaction: 1d2e06efa482829fc3140a1a40a49130
+2025-04-13 14:43:17,589 - fraud-detection-api - INFO - Transaction 1d2e06efa482829fc3140a1a40a49130: is_fraud=True, confidence=67%
+2025-04-13 14:43:17,683 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-13 14:43:17,684 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: 1d2e06efa482829fc3140a1a40a49130
+2025-04-13 14:44:13,528 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:44:13,541 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:44:13,543 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:44:13,547 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:44:13,552 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:44:13,552 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:44:13,557 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:44:13,562 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:44:28,835 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:44:28,845 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:44:28,850 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:44:28,856 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:44:44,528 - fraud-detection-api - INFO - Processing transaction: daf8a32202ad76f20a2dc1a5bc6e259b
+2025-04-13 14:44:44,531 - fraud-detection-api - DEBUG - Transaction data before encoding: [[13 'shopping_net' 1199.45 'fraud_Schumm PLC'
+  'English as a second language teacher']]
+2025-04-13 14:44:44,553 - fraud-detection-api - DEBUG - Transaction data after encoding: [[13 11 1199.45 571 170]]
+2025-04-13 14:44:44,595 - fraud-detection-api - INFO - Transaction daf8a32202ad76f20a2dc1a5bc6e259b: is_fraud=True, confidence=67%
+2025-04-13 14:44:44,596 - fraud-detection-api - DEBUG - Raw transaction ID (pre-hash): daf8a32202ad76f20a2dc1a5bc6e259b
+2025-04-13 14:44:44,597 - fraud-detection-api - DEBUG - Cleaned transaction ID: daf8a32202ad76f20a2dc1a5bc6e259b
+2025-04-13 14:44:44,597 - fraud-detection-api - DEBUG - Successfully hashed using text method
+2025-04-13 14:44:44,598 - fraud-detection-api - DEBUG - Final transaction hash hex: eef609e6f6dd37dc112be66ca73b2f8860700806c9f46fdd655daf2bc417684e
+2025-04-13 14:44:44,598 - fraud-detection-api - DEBUG - Transaction hash bytes length: 32
+2025-04-13 14:44:44,599 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_accounts
+2025-04-13 14:44:44,601 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts
+2025-04-13 14:44:44,603 - web3._utils.http_session_manager.HTTPSessionManager - DEBUG - Session cached: http://127.0.0.1:8545, <requests.sessions.Session object at 0x0000022238DF0C20>
+2025-04-13 14:44:44,611 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8545
+2025-04-13 14:44:44,616 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 485
+2025-04-13 14:44:44,618 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts, Response: {'id': 0, 'jsonrpc': '2.0', 'result': ['0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', '0xffcf8fdee72ac11b5c542428b35eef5769c409f0', '0x22d491bde2303f2f43325b2108d26f1eaba1e32b', '0xe11ba2b4d45eaed5996cd0823791e0c93114882d', '0xd03ea8624c8c5987235048901fb614fdca89b117', '0x95ced938f7991cd0dfcb48f0a06a40fa1af46ebc', '0x3e5e9111ae8eb78fe1cc3bb8915d5d461f3ef9a9', '0x28a8746e75304c0780e011bed21c72cd78cd535e', '0xaca94ef8bd5ffee41947b4585a84bda5a3d3da6e', '0x1df62f291b2e969fb0849d99d9ce41e2f137006e']}
+2025-04-13 14:44:44,630 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionCount
+2025-04-13 14:44:44,631 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount
+2025-04-13 14:44:44,643 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 39
+2025-04-13 14:44:44,645 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x1'}
+2025-04-13 14:44:44,649 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:44:44,649 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:44:44,654 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:44:44,657 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:44:44,659 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+2025-04-13 14:44:44,660 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: daf8a32202ad76f20a2dc1a5bc6e259b
+2025-04-13 14:46:22,181 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:46:22,192 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:46:22,200 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:46:22,206 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:46:39,866 - fraud-detection-api - INFO - Processing transaction: de029f53190705c603db6f598829ab62
+2025-04-13 14:46:39,868 - fraud-detection-api - DEBUG - Transaction data before encoding: [[13 'shopping_net' 1199.45 'fraud_Schumm PLC'
+  'English as a second language teacher']]
+2025-04-13 14:46:39,878 - fraud-detection-api - DEBUG - Transaction data after encoding: [[13 11 1199.45 571 170]]
+2025-04-13 14:46:39,911 - fraud-detection-api - INFO - Transaction de029f53190705c603db6f598829ab62: is_fraud=True, confidence=67%
+2025-04-13 14:46:39,912 - fraud-detection-api - DEBUG - Raw transaction ID (pre-hash): de029f53190705c603db6f598829ab62
+2025-04-13 14:46:39,912 - fraud-detection-api - DEBUG - Cleaned transaction ID: de029f53190705c603db6f598829ab62
+2025-04-13 14:46:39,913 - fraud-detection-api - DEBUG - Successfully hashed using text method
+2025-04-13 14:46:39,913 - fraud-detection-api - DEBUG - Final transaction hash hex: 1d17dc254abc745cbb7a06ea56550f1951e73a373a9b9bf411e4bfa5564b207c
+2025-04-13 14:46:39,914 - fraud-detection-api - DEBUG - Transaction hash bytes length: 32
+2025-04-13 14:46:39,915 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_accounts
+2025-04-13 14:46:39,917 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts
+2025-04-13 14:46:39,920 - web3._utils.http_session_manager.HTTPSessionManager - DEBUG - Session cached: http://127.0.0.1:8545, <requests.sessions.Session object at 0x0000012743FF0AD0>
+2025-04-13 14:46:39,924 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8545
+2025-04-13 14:46:39,957 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 485
+2025-04-13 14:46:39,959 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts, Response: {'id': 0, 'jsonrpc': '2.0', 'result': ['0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', '0xffcf8fdee72ac11b5c542428b35eef5769c409f0', '0x22d491bde2303f2f43325b2108d26f1eaba1e32b', '0xe11ba2b4d45eaed5996cd0823791e0c93114882d', '0xd03ea8624c8c5987235048901fb614fdca89b117', '0x95ced938f7991cd0dfcb48f0a06a40fa1af46ebc', '0x3e5e9111ae8eb78fe1cc3bb8915d5d461f3ef9a9', '0x28a8746e75304c0780e011bed21c72cd78cd535e', '0xaca94ef8bd5ffee41947b4585a84bda5a3d3da6e', '0x1df62f291b2e969fb0849d99d9ce41e2f137006e']}
+2025-04-13 14:46:39,968 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionCount
+2025-04-13 14:46:39,969 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount
+2025-04-13 14:46:39,981 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 39
+2025-04-13 14:46:39,983 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x1'}
+2025-04-13 14:46:39,986 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:46:39,987 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:46:39,991 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:46:39,993 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:46:39,994 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: Non-hexadecimal digit found
+Traceback (most recent call last):
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\api\main.py", line 190, in log_to_blockchain
+    signed_tx = w3.eth.account.sign_transaction(transaction, private_key=os.environ.get('PRIVATE_KEY', '0x1' * 64))
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\eth_utils\decorators.py", line 29, in _wrapper
+    return self.method(obj, *args, **kwargs)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\eth_account\account.py", line 838, in sign_transaction
+    account = self.from_key(private_key)
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\eth_utils\decorators.py", line 29, in _wrapper
+    return self.method(obj, *args, **kwargs)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\eth_account\account.py", line 310, in from_key
+    key = self._parse_private_key(private_key)
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\eth_utils\decorators.py", line 29, in _wrapper
+    return self.method(obj, *args, **kwargs)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\eth_account\account.py", line 894, in _parse_private_key
+    hb_key = HexBytes(key)
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\hexbytes\main.py", line 33, in __new__
+    bytesval = to_bytes(val)
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\hexbytes\_utils.py", line 17, in to_bytes
+    return hexstr_to_bytes(val)
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\hexbytes\_utils.py", line 54, in hexstr_to_bytes
+    return binascii.unhexlify(ascii_hex)
+           ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+binascii.Error: Non-hexadecimal digit found
+2025-04-13 14:46:40,039 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: de029f53190705c603db6f598829ab62
+2025-04-13 14:48:03,889 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:48:03,899 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:48:03,906 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:48:03,913 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:48:13,280 - fraud-detection-api - INFO - Processing transaction: 38aff43a1488436f53880a80ac0cf866
+2025-04-13 14:48:13,282 - fraud-detection-api - DEBUG - Transaction data before encoding: [[13 'shopping_net' 1199.45 'fraud_Schumm PLC'
+  'English as a second language teacher']]
+2025-04-13 14:48:13,292 - fraud-detection-api - DEBUG - Transaction data after encoding: [[13 11 1199.45 571 170]]
+2025-04-13 14:48:13,326 - fraud-detection-api - INFO - Transaction 38aff43a1488436f53880a80ac0cf866: is_fraud=True, confidence=67%
+2025-04-13 14:48:13,327 - fraud-detection-api - DEBUG - Raw transaction ID (pre-hash): 38aff43a1488436f53880a80ac0cf866
+2025-04-13 14:48:13,327 - fraud-detection-api - DEBUG - Cleaned transaction ID: 38aff43a1488436f53880a80ac0cf866
+2025-04-13 14:48:13,330 - fraud-detection-api - DEBUG - Successfully hashed using text method
+2025-04-13 14:48:13,330 - fraud-detection-api - DEBUG - Final transaction hash hex: db9a75a6f54bde9fc78ab53bc3fda9e66a2cdf0182e0941a986756557a6f81f9
+2025-04-13 14:48:13,332 - fraud-detection-api - DEBUG - Transaction hash bytes length: 32
+2025-04-13 14:48:13,334 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_accounts
+2025-04-13 14:48:13,337 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts
+2025-04-13 14:48:13,338 - web3._utils.http_session_manager.HTTPSessionManager - DEBUG - Session cached: http://127.0.0.1:8545, <requests.sessions.Session object at 0x00000151EAAF4AD0>
+2025-04-13 14:48:13,341 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8545
+2025-04-13 14:48:13,364 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 485
+2025-04-13 14:48:13,366 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts, Response: {'id': 0, 'jsonrpc': '2.0', 'result': ['0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', '0xffcf8fdee72ac11b5c542428b35eef5769c409f0', '0x22d491bde2303f2f43325b2108d26f1eaba1e32b', '0xe11ba2b4d45eaed5996cd0823791e0c93114882d', '0xd03ea8624c8c5987235048901fb614fdca89b117', '0x95ced938f7991cd0dfcb48f0a06a40fa1af46ebc', '0x3e5e9111ae8eb78fe1cc3bb8915d5d461f3ef9a9', '0x28a8746e75304c0780e011bed21c72cd78cd535e', '0xaca94ef8bd5ffee41947b4585a84bda5a3d3da6e', '0x1df62f291b2e969fb0849d99d9ce41e2f137006e']}
+2025-04-13 14:48:13,372 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionCount
+2025-04-13 14:48:13,373 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount
+2025-04-13 14:48:13,384 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 39
+2025-04-13 14:48:13,385 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x1'}
+2025-04-13 14:48:13,388 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:48:13,388 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:48:13,395 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:48:13,396 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:48:13,404 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: from field must match key's 0x19E7E376E7C213B7E7e7e46cc70A5dD086DAff2A, but it was 0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+Traceback (most recent call last):
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\api\main.py", line 190, in log_to_blockchain
+    signed_tx = w3.eth.account.sign_transaction(transaction, private_key=os.environ.get('PRIVATE_KEY', '0x' + '1' * 64))
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\eth_utils\decorators.py", line 29, in _wrapper
+    return self.method(obj, *args, **kwargs)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\eth_account\account.py", line 850, in sign_transaction
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: from field must match key's 0x19E7E376E7C213B7E7e7e46cc70A5dD086DAff2A, but it was 0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+2025-04-13 14:48:13,410 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: 38aff43a1488436f53880a80ac0cf866
+2025-04-13 14:51:12,378 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:51:12,389 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:51:12,397 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:51:12,404 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:51:22,355 - fraud-detection-api - INFO - Processing transaction: f079e1f08db9a673c3c8c3a47d55878d
+2025-04-13 14:51:22,358 - fraud-detection-api - DEBUG - Transaction data before encoding: [[13 'shopping_net' 1199.45 'fraud_Schumm PLC'
+  'English as a second language teacher']]
+2025-04-13 14:51:22,370 - fraud-detection-api - DEBUG - Transaction data after encoding: [[13 11 1199.45 571 170]]
+2025-04-13 14:51:22,407 - fraud-detection-api - INFO - Transaction f079e1f08db9a673c3c8c3a47d55878d: is_fraud=True, confidence=67%
+2025-04-13 14:51:22,408 - fraud-detection-api - DEBUG - Raw transaction ID (pre-hash): f079e1f08db9a673c3c8c3a47d55878d
+2025-04-13 14:51:22,409 - fraud-detection-api - DEBUG - Cleaned transaction ID: f079e1f08db9a673c3c8c3a47d55878d
+2025-04-13 14:51:22,410 - fraud-detection-api - DEBUG - Successfully hashed using text method
+2025-04-13 14:51:22,410 - fraud-detection-api - DEBUG - Final transaction hash hex: c3277e0068475f3b81428deddb6bd16a4ba46c2389b2aba26c62f7cd05e5d759
+2025-04-13 14:51:22,410 - fraud-detection-api - DEBUG - Transaction hash bytes length: 32
+2025-04-13 14:51:22,411 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_accounts
+2025-04-13 14:51:22,413 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts
+2025-04-13 14:51:22,415 - web3._utils.http_session_manager.HTTPSessionManager - DEBUG - Session cached: http://127.0.0.1:8545, <requests.sessions.Session object at 0x000002278CBF4AD0>
+2025-04-13 14:51:22,419 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8545
+2025-04-13 14:51:22,438 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 485
+2025-04-13 14:51:22,441 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts, Response: {'id': 0, 'jsonrpc': '2.0', 'result': ['0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', '0xffcf8fdee72ac11b5c542428b35eef5769c409f0', '0x22d491bde2303f2f43325b2108d26f1eaba1e32b', '0xe11ba2b4d45eaed5996cd0823791e0c93114882d', '0xd03ea8624c8c5987235048901fb614fdca89b117', '0x95ced938f7991cd0dfcb48f0a06a40fa1af46ebc', '0x3e5e9111ae8eb78fe1cc3bb8915d5d461f3ef9a9', '0x28a8746e75304c0780e011bed21c72cd78cd535e', '0xaca94ef8bd5ffee41947b4585a84bda5a3d3da6e', '0x1df62f291b2e969fb0849d99d9ce41e2f137006e']}
+2025-04-13 14:51:22,449 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionCount
+2025-04-13 14:51:22,451 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount
+2025-04-13 14:51:22,461 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 39
+2025-04-13 14:51:22,463 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x1'}
+2025-04-13 14:51:22,467 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:51:22,468 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:51:22,475 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:51:22,476 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:51:22,482 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: from field must match key's 0x19E7E376E7C213B7E7e7e46cc70A5dD086DAff2A, but it was 0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+Traceback (most recent call last):
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\api\main.py", line 190, in log_to_blockchain
+    signed_tx = w3.eth.account.sign_transaction(transaction, private_key=os.environ.get('PRIVATE_KEY', '0x' + '1' * 64))
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\eth_utils\decorators.py", line 29, in _wrapper
+    return self.method(obj, *args, **kwargs)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\venv\Lib\site-packages\eth_account\account.py", line 850, in sign_transaction
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: from field must match key's 0x19E7E376E7C213B7E7e7e46cc70A5dD086DAff2A, but it was 0x90F8bf6A479f320ead074411a4B0e7944Ea8c9C1
+2025-04-13 14:51:22,489 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: f079e1f08db9a673c3c8c3a47d55878d
+2025-04-13 14:54:13,793 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:54:13,806 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:54:13,812 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:54:13,819 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:54:18,299 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:54:18,308 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:54:18,314 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:54:18,319 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:54:37,197 - fraud-detection-api - INFO - Processing transaction: 3546d4a70ce07050622315a53e4f3bf0
+2025-04-13 14:54:37,200 - fraud-detection-api - DEBUG - Transaction data before encoding: [[13 'shopping_net' 1199.45 'fraud_Schumm PLC'
+  'English as a second language teacher']]
+2025-04-13 14:54:37,213 - fraud-detection-api - DEBUG - Transaction data after encoding: [[13 11 1199.45 571 170]]
+2025-04-13 14:54:37,242 - fraud-detection-api - INFO - Transaction 3546d4a70ce07050622315a53e4f3bf0: is_fraud=True, confidence=67%
+2025-04-13 14:54:37,245 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_accounts
+2025-04-13 14:54:37,247 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts
+2025-04-13 14:54:37,249 - web3._utils.http_session_manager.HTTPSessionManager - DEBUG - Session cached: http://127.0.0.1:8545, <requests.sessions.Session object at 0x0000021A1B1F0830>
+2025-04-13 14:54:37,251 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8545
+2025-04-13 14:54:37,272 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 485
+2025-04-13 14:54:37,274 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts, Response: {'id': 0, 'jsonrpc': '2.0', 'result': ['0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', '0xffcf8fdee72ac11b5c542428b35eef5769c409f0', '0x22d491bde2303f2f43325b2108d26f1eaba1e32b', '0xe11ba2b4d45eaed5996cd0823791e0c93114882d', '0xd03ea8624c8c5987235048901fb614fdca89b117', '0x95ced938f7991cd0dfcb48f0a06a40fa1af46ebc', '0x3e5e9111ae8eb78fe1cc3bb8915d5d461f3ef9a9', '0x28a8746e75304c0780e011bed21c72cd78cd535e', '0xaca94ef8bd5ffee41947b4585a84bda5a3d3da6e', '0x1df62f291b2e969fb0849d99d9ce41e2f137006e']}
+2025-04-13 14:54:37,284 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionCount
+2025-04-13 14:54:37,285 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount
+2025-04-13 14:54:37,296 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 39
+2025-04-13 14:54:37,297 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x1'}
+2025-04-13 14:54:37,300 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:54:37,301 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:54:37,305 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:54:37,307 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:54:37,322 - fraud-detection-api - ERROR - Failed to log fraud to blockchain: 'SignedTransaction' object has no attribute 'rawTransaction'
+Traceback (most recent call last):
+  File "C:\Files\FreeLancing\Blockchain\debit-fraud-project\api\main.py", line 186, in log_to_blockchain
+    tx_hash = w3.eth.send_raw_transaction(signed_tx.rawTransaction)
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SignedTransaction' object has no attribute 'rawTransaction'. Did you mean: 'raw_transaction'?
+2025-04-13 14:54:37,326 - fraud-detection-api - ERROR - Transaction ID type: <class 'str'>, value: 3546d4a70ce07050622315a53e4f3bf0
+2025-04-13 14:55:08,572 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:55:08,582 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:55:08,588 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:55:08,595 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:55:24,031 - fraud-detection-api - INFO - Processing transaction: 452b25485087d92cf6d3f47b6dacc262
+2025-04-13 14:55:24,033 - fraud-detection-api - DEBUG - Transaction data before encoding: [[13 'shopping_net' 1199.45 'fraud_Schumm PLC'
+  'English as a second language teacher']]
+2025-04-13 14:55:24,047 - fraud-detection-api - DEBUG - Transaction data after encoding: [[13 11 1199.45 571 170]]
+2025-04-13 14:55:24,080 - fraud-detection-api - INFO - Transaction 452b25485087d92cf6d3f47b6dacc262: is_fraud=True, confidence=67%
+2025-04-13 14:55:24,082 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_accounts
+2025-04-13 14:55:24,084 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts
+2025-04-13 14:55:24,086 - web3._utils.http_session_manager.HTTPSessionManager - DEBUG - Session cached: http://127.0.0.1:8545, <requests.sessions.Session object at 0x00000189846F0AD0>
+2025-04-13 14:55:24,089 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8545
+2025-04-13 14:55:24,096 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 485
+2025-04-13 14:55:24,098 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts, Response: {'id': 0, 'jsonrpc': '2.0', 'result': ['0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', '0xffcf8fdee72ac11b5c542428b35eef5769c409f0', '0x22d491bde2303f2f43325b2108d26f1eaba1e32b', '0xe11ba2b4d45eaed5996cd0823791e0c93114882d', '0xd03ea8624c8c5987235048901fb614fdca89b117', '0x95ced938f7991cd0dfcb48f0a06a40fa1af46ebc', '0x3e5e9111ae8eb78fe1cc3bb8915d5d461f3ef9a9', '0x28a8746e75304c0780e011bed21c72cd78cd535e', '0xaca94ef8bd5ffee41947b4585a84bda5a3d3da6e', '0x1df62f291b2e969fb0849d99d9ce41e2f137006e']}
+2025-04-13 14:55:24,108 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionCount
+2025-04-13 14:55:24,109 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount
+2025-04-13 14:55:24,126 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 39
+2025-04-13 14:55:24,128 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x1'}
+2025-04-13 14:55:24,132 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:55:24,133 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:55:24,140 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:55:24,142 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:55:24,161 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_sendRawTransaction
+2025-04-13 14:55:24,162 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_sendRawTransaction
+2025-04-13 14:55:24,347 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 102
+2025-04-13 14:55:24,348 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_sendRawTransaction, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x92af01023f2d580050798cb300c1adc6a934fc3517efc631334142bed41bbb92'}
+2025-04-13 14:55:24,350 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionReceipt
+2025-04-13 14:55:24,351 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionReceipt
+2025-04-13 14:55:24,358 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 2702
+2025-04-13 14:55:24,359 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionReceipt, Response: {'id': 4, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x92af01023f2d580050798cb300c1adc6a934fc3517efc631334142bed41bbb92', 'transactionIndex': '0x0', 'blockNumber': '0x2', 'blockHash': '0x40db6ad25db893621d35d455ba35a38cd4a294995acf0df22c1479789e02ee20', 'from': '0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', 'to': '0xe78a0f7e598cc8b0bb87894b0f60dd2a88d6a8ab', 'cumulativeGasUsed': '0x75522', 'gasUsed': '0x75522', 'contractAddress': None, 'logs': [{'address': '0xe78a0f7e598cc8b0bb87894b0f60dd2a88d6a8ab', 'blockHash': '0x40db6ad25db893621d35d455ba35a38cd4a294995acf0df22c1479789e02ee20', 'blockNumber': '0x2', 'data': '0x0000000000000000000000000000000000000000000000000000000067fb83040000000000000000000000000000000000000000000000000000000000000043000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000001c27b2264656269745f636172645f6e756d626572223a202238313735383837363134383538383031222c20226d65726368616e74223a202266726175645f536368756d6d20504c43222c202263617465676f7279223a202273686f7070696e675f6e6574222c2022616d6f756e74223a20313139392e34352c20226a6f62223a2022456e676c6973682061732061207365636f6e64206c616e67756167652074656163686572222c202263697479223a20224e657720596f726b222c20227374617465223a20224e59222c20227a6970223a20223130303031222c2022686f75725f6f665f646179223a2031332c202274696d657374616d70223a2022323032352d30342d31335431343a35353a32342e303831323330222c2022666f726569676e5f7472616e73616374696f6e223a2066616c73652c20227765656b656e645f7478223a2066616c73652c202264697374616e63655f66726f6d5f686f6d65223a2032302c202269705f61646472657373223a20223139322e3136382e3132312e323431222c20226465766963655f6964223a20224445562d6a306f72386a3736222c202262726f77736572223a20224368726f6d652f3131352e302e302e30227d000000000000000000000000000000000000000000000000000000000000', 'logIndex': '0x0', 'removed': False, 'topics': ['0x0c8c0831c6c926bbedd4bf3e9a63f69750d1fc8d7b62614fd61987c08e1b8af5', '0x1af4b609de7e5210bbbf6ee8a97bc68d775008c6910fcc65f6ecb5518ff798d3'], 'transactionHash': '0x92af01023f2d580050798cb300c1adc6a934fc3517efc631334142bed41bbb92', 'transactionIndex': '0x0'}], 'logsBloom': '0x00000000000000000000010000000000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000100000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000200000000000000000000000000000010000000000000000000000000000000000000000000000000000000010000000000000', 'status': '0x1', 'effectiveGasPrice': '0x6972ea4f', 'type': '0x2'}}
+2025-04-13 14:55:24,370 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_call
+2025-04-13 14:55:24,372 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:55:24,372 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:55:24,378 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:55:24,379 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:55:24,381 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_call
+2025-04-13 14:55:24,397 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 102
+2025-04-13 14:55:24,399 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_call, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x0000000000000000000000000000000000000000000000000000000000000001'}
+2025-04-13 14:55:24,399 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:55:24,400 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:55:24,405 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:55:24,406 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 7, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:55:24,409 - fraud-detection-api - INFO - Fraud logged to blockchain with tx hash: 92af01023f2d580050798cb300c1adc6a934fc3517efc631334142bed41bbb92, log ID: 0
+2025-04-13 14:56:51,284 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:56:51,291 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:56:51,298 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:56:51,304 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:57:22,548 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:57:22,556 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:57:22,561 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:57:22,566 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:57:54,736 - fraud-detection-api - INFO - Processing transaction: 8578b5f2b4884d4e6037d708db7a6a6e
+2025-04-13 14:57:54,738 - fraud-detection-api - DEBUG - Transaction data before encoding: [[13 'shopping_net' 1199.45 'fraud_Schumm PLC'
+  'English as a second language teacher']]
+2025-04-13 14:57:54,751 - fraud-detection-api - DEBUG - Transaction data after encoding: [[13 11 1199.45 571 170]]
+2025-04-13 14:57:54,778 - fraud-detection-api - INFO - Transaction 8578b5f2b4884d4e6037d708db7a6a6e: is_fraud=True, confidence=67%
+2025-04-13 14:57:54,785 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_accounts
+2025-04-13 14:57:54,789 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts
+2025-04-13 14:57:54,791 - web3._utils.http_session_manager.HTTPSessionManager - DEBUG - Session cached: http://127.0.0.1:8545, <requests.sessions.Session object at 0x0000017D494C5010>
+2025-04-13 14:57:54,794 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8545
+2025-04-13 14:57:54,807 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 485
+2025-04-13 14:57:54,808 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts, Response: {'id': 0, 'jsonrpc': '2.0', 'result': ['0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', '0xffcf8fdee72ac11b5c542428b35eef5769c409f0', '0x22d491bde2303f2f43325b2108d26f1eaba1e32b', '0xe11ba2b4d45eaed5996cd0823791e0c93114882d', '0xd03ea8624c8c5987235048901fb614fdca89b117', '0x95ced938f7991cd0dfcb48f0a06a40fa1af46ebc', '0x3e5e9111ae8eb78fe1cc3bb8915d5d461f3ef9a9', '0x28a8746e75304c0780e011bed21c72cd78cd535e', '0xaca94ef8bd5ffee41947b4585a84bda5a3d3da6e', '0x1df62f291b2e969fb0849d99d9ce41e2f137006e']}
+2025-04-13 14:57:54,818 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionCount
+2025-04-13 14:57:54,820 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount
+2025-04-13 14:57:54,827 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 39
+2025-04-13 14:57:54,828 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x2'}
+2025-04-13 14:57:54,835 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:57:54,835 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:57:54,841 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:57:54,843 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:57:54,859 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_sendRawTransaction
+2025-04-13 14:57:54,860 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_sendRawTransaction
+2025-04-13 14:57:54,980 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 102
+2025-04-13 14:57:54,981 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_sendRawTransaction, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0x0afe99ffff4f011cc49d1ebf7fe0f30750837194212d46c8bff29dba8ec65ef7'}
+2025-04-13 14:57:54,982 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionReceipt
+2025-04-13 14:57:54,983 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionReceipt
+2025-04-13 14:57:54,990 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 2702
+2025-04-13 14:57:54,991 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionReceipt, Response: {'id': 4, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x0afe99ffff4f011cc49d1ebf7fe0f30750837194212d46c8bff29dba8ec65ef7', 'transactionIndex': '0x0', 'blockNumber': '0x3', 'blockHash': '0x486a0cb979865a21e0801890f078d37fa60f59c9878a0d7cc71e914075076db2', 'from': '0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', 'to': '0xe78a0f7e598cc8b0bb87894b0f60dd2a88d6a8ab', 'cumulativeGasUsed': '0x71256', 'gasUsed': '0x71256', 'contractAddress': None, 'logs': [{'address': '0xe78a0f7e598cc8b0bb87894b0f60dd2a88d6a8ab', 'blockHash': '0x486a0cb979865a21e0801890f078d37fa60f59c9878a0d7cc71e914075076db2', 'blockNumber': '0x3', 'data': '0x0000000000000000000000000000000000000000000000000000000067fb839a0000000000000000000000000000000000000000000000000000000000000043000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000001c27b2264656269745f636172645f6e756d626572223a202236313037333835363032363935383739222c20226d65726368616e74223a202266726175645f536368756d6d20504c43222c202263617465676f7279223a202273686f7070696e675f6e6574222c2022616d6f756e74223a20313139392e34352c20226a6f62223a2022456e676c6973682061732061207365636f6e64206c616e67756167652074656163686572222c202263697479223a20224e657720596f726b222c20227374617465223a20224e59222c20227a6970223a20223130303031222c2022686f75725f6f665f646179223a2031332c202274696d657374616d70223a2022323032352d30342d31335431343a35373a35342e373834323337222c2022666f726569676e5f7472616e73616374696f6e223a2066616c73652c20227765656b656e645f7478223a2066616c73652c202264697374616e63655f66726f6d5f686f6d65223a2032302c202269705f61646472657373223a20223139322e3136382e3233312e323039222c20226465766963655f6964223a20224445562d716f6e6c62723273222c202262726f77736572223a20224368726f6d652f3131352e302e302e30227d000000000000000000000000000000000000000000000000000000000000', 'logIndex': '0x0', 'removed': False, 'topics': ['0x0c8c0831c6c926bbedd4bf3e9a63f69750d1fc8d7b62614fd61987c08e1b8af5', '0x419ddb7d6276d44070403c081d0ed2ed935a0a5e0686e28b99a038c8baf6c4b9'], 'transactionHash': '0x0afe99ffff4f011cc49d1ebf7fe0f30750837194212d46c8bff29dba8ec65ef7', 'transactionIndex': '0x0'}], 'logsBloom': '0x00000000000000000004000400000000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000004000000000000000000000000000000000100000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040010000000000000', 'status': '0x1', 'effectiveGasPrice': '0x63e6e5bc', 'type': '0x2'}}
+2025-04-13 14:57:55,004 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_call
+2025-04-13 14:57:55,005 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:57:55,006 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:57:55,010 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:57:55,011 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:57:55,013 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_call
+2025-04-13 14:57:55,028 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 102
+2025-04-13 14:57:55,030 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_call, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x0000000000000000000000000000000000000000000000000000000000000002'}
+2025-04-13 14:57:55,031 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:57:55,031 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:57:55,036 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 14:57:55,037 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 7, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:57:55,039 - fraud-detection-api - INFO - Fraud logged to blockchain with tx hash: 0afe99ffff4f011cc49d1ebf7fe0f30750837194212d46c8bff29dba8ec65ef7, log ID: 1
+2025-04-13 14:59:52,050 - fraud-detection-api - INFO - Processing transaction: fde40930a49a33551174d1472e4d12de
+2025-04-13 14:59:52,054 - fraud-detection-api - DEBUG - Transaction data before encoding: [[13 'shopping_net' 1199.45 'fraud_Schumm PLC'
+  'English as a second language teacher']]
+2025-04-13 14:59:52,061 - fraud-detection-api - DEBUG - Transaction data after encoding: [[13 11 1199.45 571 170]]
+2025-04-13 14:59:52,091 - fraud-detection-api - INFO - Transaction fde40930a49a33551174d1472e4d12de: is_fraud=True, confidence=67%
+2025-04-13 14:59:52,092 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_accounts
+2025-04-13 14:59:52,092 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts
+2025-04-13 14:59:52,096 - urllib3.connectionpool - DEBUG - Resetting dropped connection: 127.0.0.1
+2025-04-13 14:59:52,102 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 485
+2025-04-13 14:59:52,103 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts, Response: {'id': 8, 'jsonrpc': '2.0', 'result': ['0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', '0xffcf8fdee72ac11b5c542428b35eef5769c409f0', '0x22d491bde2303f2f43325b2108d26f1eaba1e32b', '0xe11ba2b4d45eaed5996cd0823791e0c93114882d', '0xd03ea8624c8c5987235048901fb614fdca89b117', '0x95ced938f7991cd0dfcb48f0a06a40fa1af46ebc', '0x3e5e9111ae8eb78fe1cc3bb8915d5d461f3ef9a9', '0x28a8746e75304c0780e011bed21c72cd78cd535e', '0xaca94ef8bd5ffee41947b4585a84bda5a3d3da6e', '0x1df62f291b2e969fb0849d99d9ce41e2f137006e']}
+2025-04-13 14:59:52,107 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionCount
+2025-04-13 14:59:52,108 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount
+2025-04-13 14:59:52,114 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 39
+2025-04-13 14:59:52,115 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount, Response: {'id': 9, 'jsonrpc': '2.0', 'result': '0x3'}
+2025-04-13 14:59:52,120 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:59:52,121 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:59:52,126 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 42
+2025-04-13 14:59:52,127 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 10, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:59:52,145 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_sendRawTransaction
+2025-04-13 14:59:52,146 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_sendRawTransaction
+2025-04-13 14:59:52,243 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 103
+2025-04-13 14:59:52,244 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_sendRawTransaction, Response: {'id': 11, 'jsonrpc': '2.0', 'result': '0x1270098f573b8ad4c954f6e8ab202117b2fe1b838b947732eb75d3058b5b63e3'}
+2025-04-13 14:59:52,246 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionReceipt
+2025-04-13 14:59:52,247 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionReceipt
+2025-04-13 14:59:52,253 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 2703
+2025-04-13 14:59:52,254 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionReceipt, Response: {'id': 12, 'jsonrpc': '2.0', 'result': {'transactionHash': '0x1270098f573b8ad4c954f6e8ab202117b2fe1b838b947732eb75d3058b5b63e3', 'transactionIndex': '0x0', 'blockNumber': '0x4', 'blockHash': '0xf1fc37aeae1918e6a44f3d530822b1cb878a2f07a4c0a1b5e4ea2d782bbf3134', 'from': '0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', 'to': '0xe78a0f7e598cc8b0bb87894b0f60dd2a88d6a8ab', 'cumulativeGasUsed': '0x71256', 'gasUsed': '0x71256', 'contractAddress': None, 'logs': [{'address': '0xe78a0f7e598cc8b0bb87894b0f60dd2a88d6a8ab', 'blockHash': '0xf1fc37aeae1918e6a44f3d530822b1cb878a2f07a4c0a1b5e4ea2d782bbf3134', 'blockNumber': '0x4', 'data': '0x0000000000000000000000000000000000000000000000000000000067fb84100000000000000000000000000000000000000000000000000000000000000043000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000001c27b2264656269745f636172645f6e756d626572223a202232343432333537303739323534363035222c20226d65726368616e74223a202266726175645f536368756d6d20504c43222c202263617465676f7279223a202273686f7070696e675f6e6574222c2022616d6f756e74223a20313139392e34352c20226a6f62223a2022456e676c6973682061732061207365636f6e64206c616e67756167652074656163686572222c202263697479223a20224e657720596f726b222c20227374617465223a20224e59222c20227a6970223a20223130303031222c2022686f75725f6f665f646179223a2031332c202274696d657374616d70223a2022323032352d30342d31335431343a35393a35322e303931363736222c2022666f726569676e5f7472616e73616374696f6e223a2066616c73652c20227765656b656e645f7478223a2066616c73652c202264697374616e63655f66726f6d5f686f6d65223a2032302c202269705f61646472657373223a20223139322e3136382e3232382e313434222c20226465766963655f6964223a20224445562d616e3236646f3674222c202262726f77736572223a20224368726f6d652f3131352e302e302e30227d000000000000000000000000000000000000000000000000000000000000', 'logIndex': '0x0', 'removed': False, 'topics': ['0x0c8c0831c6c926bbedd4bf3e9a63f69750d1fc8d7b62614fd61987c08e1b8af5', '0x3f46188943c5fac02597fafc9337dc7c0ecba076ae24f4efc5894a3d59c5febc'], 'transactionHash': '0x1270098f573b8ad4c954f6e8ab202117b2fe1b838b947732eb75d3058b5b63e3', 'transactionIndex': '0x0'}], 'logsBloom': '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000800000000000000000000000000000000000000000000000004000000000000000000000000000000000100000000000200000000000000000000000000000000000400000000000000000000000000000008000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000', 'status': '0x1', 'effectiveGasPrice': '0x5f0539a6', 'type': '0x2'}}
+2025-04-13 14:59:52,259 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_call
+2025-04-13 14:59:52,260 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:59:52,261 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:59:52,265 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 42
+2025-04-13 14:59:52,267 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 13, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:59:52,270 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_call
+2025-04-13 14:59:52,283 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 103
+2025-04-13 14:59:52,284 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_call, Response: {'id': 14, 'jsonrpc': '2.0', 'result': '0x0000000000000000000000000000000000000000000000000000000000000003'}
+2025-04-13 14:59:52,285 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 14:59:52,286 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 14:59:52,291 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 42
+2025-04-13 14:59:52,292 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 15, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 14:59:52,294 - fraud-detection-api - INFO - Fraud logged to blockchain with tx hash: 1270098f573b8ad4c954f6e8ab202117b2fe1b838b947732eb75d3058b5b63e3, log ID: 2
+2025-04-13 14:59:58,892 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 14:59:58,905 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 14:59:58,913 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 14:59:58,919 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 15:04:01,929 - fraud-detection-api - INFO - Processing transaction: 95b32c9672d04d7a39cc7b276a6243bc
+2025-04-13 15:04:01,932 - fraud-detection-api - DEBUG - Transaction data before encoding: [[13 'shopping_net' 1199.45 'fraud_Schumm PLC'
+  'English as a second language teacher']]
+2025-04-13 15:04:01,943 - fraud-detection-api - DEBUG - Transaction data after encoding: [[13 11 1199.45 571 170]]
+2025-04-13 15:04:01,969 - fraud-detection-api - INFO - Transaction 95b32c9672d04d7a39cc7b276a6243bc: is_fraud=True, confidence=67%
+2025-04-13 15:04:01,972 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_accounts
+2025-04-13 15:04:01,974 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts
+2025-04-13 15:04:01,978 - web3._utils.http_session_manager.HTTPSessionManager - DEBUG - Session cached: http://127.0.0.1:8545, <requests.sessions.Session object at 0x000002C066CC02F0>
+2025-04-13 15:04:01,980 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): 127.0.0.1:8545
+2025-04-13 15:04:01,986 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 485
+2025-04-13 15:04:01,987 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_accounts, Response: {'id': 0, 'jsonrpc': '2.0', 'result': ['0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', '0xffcf8fdee72ac11b5c542428b35eef5769c409f0', '0x22d491bde2303f2f43325b2108d26f1eaba1e32b', '0xe11ba2b4d45eaed5996cd0823791e0c93114882d', '0xd03ea8624c8c5987235048901fb614fdca89b117', '0x95ced938f7991cd0dfcb48f0a06a40fa1af46ebc', '0x3e5e9111ae8eb78fe1cc3bb8915d5d461f3ef9a9', '0x28a8746e75304c0780e011bed21c72cd78cd535e', '0xaca94ef8bd5ffee41947b4585a84bda5a3d3da6e', '0x1df62f291b2e969fb0849d99d9ce41e2f137006e']}
+2025-04-13 15:04:01,994 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionCount
+2025-04-13 15:04:01,995 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount
+2025-04-13 15:04:02,002 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 39
+2025-04-13 15:04:02,004 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionCount, Response: {'id': 1, 'jsonrpc': '2.0', 'result': '0x4'}
+2025-04-13 15:04:02,008 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 15:04:02,008 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 15:04:02,013 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 15:04:02,014 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 2, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 15:04:02,030 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_sendRawTransaction
+2025-04-13 15:04:02,030 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_sendRawTransaction
+2025-04-13 15:04:02,128 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 102
+2025-04-13 15:04:02,129 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_sendRawTransaction, Response: {'id': 3, 'jsonrpc': '2.0', 'result': '0xc628c5d0def6cf4164163c6b053b085a9b6b8b4cebfde4bd8f4c0982096513c6'}
+2025-04-13 15:04:02,130 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_getTransactionReceipt
+2025-04-13 15:04:02,130 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionReceipt
+2025-04-13 15:04:02,136 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 2702
+2025-04-13 15:04:02,138 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_getTransactionReceipt, Response: {'id': 4, 'jsonrpc': '2.0', 'result': {'transactionHash': '0xc628c5d0def6cf4164163c6b053b085a9b6b8b4cebfde4bd8f4c0982096513c6', 'transactionIndex': '0x0', 'blockNumber': '0x5', 'blockHash': '0x4180adaea5325a136068c23d8cef5b29fff78605d2227c2f38e50461d3f5ac0d', 'from': '0x90f8bf6a479f320ead074411a4b0e7944ea8c9c1', 'to': '0xe78a0f7e598cc8b0bb87894b0f60dd2a88d6a8ab', 'cumulativeGasUsed': '0x71256', 'gasUsed': '0x71256', 'contractAddress': None, 'logs': [{'address': '0xe78a0f7e598cc8b0bb87894b0f60dd2a88d6a8ab', 'blockHash': '0x4180adaea5325a136068c23d8cef5b29fff78605d2227c2f38e50461d3f5ac0d', 'blockNumber': '0x5', 'data': '0x0000000000000000000000000000000000000000000000000000000067fb850a0000000000000000000000000000000000000000000000000000000000000043000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000001c27b2264656269745f636172645f6e756d626572223a202239363039313933333834343834383333222c20226d65726368616e74223a202266726175645f536368756d6d20504c43222c202263617465676f7279223a202273686f7070696e675f6e6574222c2022616d6f756e74223a20313139392e34352c20226a6f62223a2022456e676c6973682061732061207365636f6e64206c616e67756167652074656163686572222c202263697479223a20224e657720596f726b222c20227374617465223a20224e59222c20227a6970223a20223130303031222c2022686f75725f6f665f646179223a2031332c202274696d657374616d70223a2022323032352d30342d31335431353a30343a30312e393731363531222c2022666f726569676e5f7472616e73616374696f6e223a2066616c73652c20227765656b656e645f7478223a2066616c73652c202264697374616e63655f66726f6d5f686f6d65223a2032302c202269705f61646472657373223a20223139322e3136382e3230372e313839222c20226465766963655f6964223a20224445562d393172653064666b222c202262726f77736572223a20224368726f6d652f3131352e302e302e30227d000000000000000000000000000000000000000000000000000000000000', 'logIndex': '0x0', 'removed': False, 'topics': ['0x0c8c0831c6c926bbedd4bf3e9a63f69750d1fc8d7b62614fd61987c08e1b8af5', '0x5c6a31d4fd03ad4b636e0a0215d8ae4cd8159bab2e99d176d5796425644a0d23'], 'transactionHash': '0xc628c5d0def6cf4164163c6b053b085a9b6b8b4cebfde4bd8f4c0982096513c6', 'transactionIndex': '0x0'}], 'logsBloom': '0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000000000000004000000000000000000000000000000000100000000000000000000000000000000000000000000000400000000000000000000000040000000000000010000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000', 'status': '0x1', 'effectiveGasPrice': '0x5abaef8b', 'type': '0x2'}}
+2025-04-13 15:04:02,154 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_call
+2025-04-13 15:04:02,155 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 15:04:02,156 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 15:04:02,163 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 15:04:02,165 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 5, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 15:04:02,166 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_call
+2025-04-13 15:04:02,180 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 102
+2025-04-13 15:04:02,181 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_call, Response: {'id': 6, 'jsonrpc': '2.0', 'result': '0x0000000000000000000000000000000000000000000000000000000000000004'}
+2025-04-13 15:04:02,182 - web3.manager.RequestManager - DEBUG - Making request. Method: eth_chainId
+2025-04-13 15:04:02,182 - web3.providers.HTTPProvider - DEBUG - Making request HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId
+2025-04-13 15:04:02,186 - urllib3.connectionpool - DEBUG - http://127.0.0.1:8545 "POST / HTTP/1.1" 200 41
+2025-04-13 15:04:02,187 - web3.providers.HTTPProvider - DEBUG - Getting response HTTP. URI: http://127.0.0.1:8545, Method: eth_chainId, Response: {'id': 7, 'jsonrpc': '2.0', 'result': '0x539'}
+2025-04-13 15:04:02,189 - fraud-detection-api - INFO - Fraud logged to blockchain with tx hash: c628c5d0def6cf4164163c6b053b085a9b6b8b4cebfde4bd8f4c0982096513c6, log ID: 3
+2025-04-13 15:04:38,927 - fraud-detection-api - INFO - Model and encoder loaded successfully
+2025-04-13 15:04:38,937 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab
+2025-04-13 15:04:38,942 - fraud-detection-api - INFO - Starting Fraud Detection API
+2025-04-13 15:04:38,947 - fraud-detection-api - INFO - Contract loaded successfully at 0xe78A0F7E598Cc8b0Bb87894B0F60dD2a88d6a8Ab

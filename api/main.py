@@ -13,6 +13,8 @@ from typing import Optional, Dict, Any
 import uvicorn
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware  # Add this import for CORS
+from dotenv import load_dotenv
+load_dotenv()
 
 # Import merchant, category and job lists
 from MERCHANTS import MERCHANTS
@@ -155,11 +157,17 @@ def log_to_blockchain(background_tasks: BackgroundTasks, transaction_id: str, co
             return None, None
     
     try:
-        # Prepare transaction data
+        # Clean the transaction ID and ensure consistent formatting
+        transaction_id = transaction_id.strip().lower()
+        
+        # Use the text method to hash the transaction ID
         tx_hash = Web3.keccak(text=transaction_id)
         
-        # Get the first account from the connected node (e.g., Ganache)
+        # Get the first account from Ganache
         account = w3.eth.accounts[0]
+        
+        # Use the private key that corresponds to the first Ganache account
+        private_key = os.getenv("PRIVATE_KEY")
         
         # Build transaction - updated for Web3.py v6+
         transaction = contract.functions.logFraud(
@@ -174,15 +182,14 @@ def log_to_blockchain(background_tasks: BackgroundTasks, transaction_id: str, co
             'nonce': w3.eth.get_transaction_count(account)
         })
         
-        # Sign and send transaction
-        signed_tx = w3.eth.account.sign_transaction(transaction, private_key=os.environ.get('PRIVATE_KEY', '0x1' * 64))
-        tx_hash = w3.eth.send_raw_transaction(signed_tx.rawTransaction)
+        # Sign and send transaction with the correct private key
+        signed_tx = w3.eth.account.sign_transaction(transaction, private_key=private_key)
+        tx_hash = w3.eth.send_raw_transaction(signed_tx.raw_transaction)
         receipt = w3.eth.wait_for_transaction_receipt(tx_hash)
         
         # Get the log ID from events
         log_id = None
         if receipt.status == 1:  # Transaction successful
-            # Parse the logs to get the added record ID
             logs = contract.events.FraudDetected().process_receipt(receipt)
             if logs:
                 log_id = contract.functions.getFraudCount().call() - 1
@@ -191,7 +198,8 @@ def log_to_blockchain(background_tasks: BackgroundTasks, transaction_id: str, co
         return log_id, receipt.transactionHash.hex()
     
     except Exception as e:
-        logger.error(f"Failed to log fraud to blockchain: {e}")
+        logger.exception(f"Failed to log fraud to blockchain: {e}")
+        logger.error(f"Transaction ID type: {type(transaction_id)}, value: {transaction_id}")
         return None, None
 
 @app.on_event("startup")
@@ -240,7 +248,8 @@ async def detect_fraud(transaction: Transaction, background_tasks: BackgroundTas
         
         # Make prediction
         fraud_probability = model.predict_proba(df)[0, 1]
-        is_fraud = fraud_probability >= 0.7  # Threshold for fraud
+        print(fraud_probability)
+        is_fraud = fraud_probability >= 0.6  # Threshold for fraud
         confidence_score = int(fraud_probability * 100)
         
         # Log the prediction
@@ -307,7 +316,7 @@ async def get_merchants():
     Return a list of merchants for the frontend simulator
     """
     # Return a limited set (first 20) to avoid overwhelming the frontend
-    return {"merchants": MERCHANTS[:20]}
+    return {"merchants": MERCHANTS}
 
 @app.get("/categories/")
 async def get_categories():
@@ -322,7 +331,7 @@ async def get_jobs():
     Return list of jobs for the frontend simulator
     """
     # Return a limited set to avoid overwhelming the frontend
-    return {"jobs": JOBS[:20]}
+    return {"jobs": JOBS}
 
 @app.get("/contract_address", response_model=str)
 async def get_contract_address():
